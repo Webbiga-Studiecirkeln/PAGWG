@@ -18,7 +18,7 @@ function Navbar() {
 
   return (
     <header className="max-w-7xl mx-auto p-6">
-      <ul className="flex flex-row justify-between">
+      <ul className="flex flex-col items-center gap-4 md:flex-row justify-between">
         {navItems.map((item, index) => (
           <NavItem key={index} href={item.href}>{item.title}</NavItem>
         ))}
