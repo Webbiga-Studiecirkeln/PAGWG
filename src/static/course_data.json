@@ -1,0 +1,410 @@
+{
+  "ht26": [
+    {
+      "name": "Programmering och problemlösning med Python",
+      "badges": [
+        "lp1",
+        "dv1670",
+        "kp-programmering"
+      ],
+      "imagePath": "/public/courses/dv1670.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://bth-python.github.io/"
+        },
+        {
+          "icon": "AcademicCapIcon",
+          "title": "Canvas",
+          "href": "https://bth.instructure.com/courses/7050"
+        },
+        {
+          "icon": "CalendarIcon",
+          "title": "Schema",
+          "href": "https://cloud.timeedit.net/bth/web/sched1/ri162153X58Z55Q6Z36g2660y40Y6YX9807gQY6Q5375Y01173Z8Q6fccZq6QQZqoQc.html"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/bth-python"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BLE3H&semester=20262&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "Webbteknologier",
+      "badges": [
+        "lp1",
+        "dv1704",
+        "kp-frontend"
+      ],
+      "imagePath": "/public/courses/dv1704.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://bth-webtec.github.io/"
+        },
+        {
+          "icon": "AcademicCapIcon",
+          "title": "Canvas",
+          "href": "https://bth.instructure.com/courses/7268"
+        },
+        {
+          "icon": "CalendarIcon",
+          "title": "Schema",
+          "href": "https://cloud.timeedit.net/bth/web/sched1/ri177153X55Z5QQ6Z76g2610y00Y6Y72502gQY6Q537.html"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/bth-webtec"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B6TQG&semester=20262&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "Objektorienterad programmering i CSharp",
+      "badges": [
+        "lp2",
+        "dv1701",
+        "kp-programmering"
+      ],
+      "imagePath": "/public/courses/dv1701.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://bth-python.github.io/"
+        },
+        {
+          "icon": "AcademicCapIcon",
+          "title": "Canvas",
+          "href": "https://bth.instructure.com/courses/7050"
+        },
+        {
+          "icon": "CalendarIcon",
+          "title": "Schema",
+          "href": "https://cloud.timeedit.net/bth/web/sched1/ri162153X58Z55Q6Z36g2660y40Y6YX9807gQY6Q5375Y01173Z8Q6fccZq6QQZqoQc.html"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/bth-csharp"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B3P9W&semester=20262&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "UX-design med JavaScript",
+      "badges": [
+        "lp2",
+        "dv1705",
+        "kp-frontend"
+      ],
+      "imagePath": "/public/courses/dv1705.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://dbwebb-jsux.github.io/"
+        },
+        {
+          "icon": "AcademicCapIcon",
+          "title": "Canvas",
+          "href": "https://bth.instructure.com/courses/7557"
+        },
+        {
+          "icon": "CalendarIcon",
+          "title": "Schema",
+          "href": "https://cloud.timeedit.net/bth/web/sched1/riq66QY20Z9Z77Qy567Q65Q663ZX7553YY6555gQ20o67w6XZ7QYqo.html"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/dbwebb-jsux"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B3CEF&semester=20262&lang=sv"
+        }
+      ]
+    }
+  ],
+  "vt27": [
+    {
+      "name": "Databasteknik",
+      "badges": [
+        "lp3",
+        "dv1703",
+        "kp-programmering"
+      ],
+      "imagePath": "/public/courses/dv1703.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://bth-databas.github.io/website/"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/bth-databas"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B6JFK&semester=20271&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "Webbapplikationer för mobila enheter",
+      "badges": [
+        "lp3",
+        "dv1706",
+        "kp-frontend"
+      ],
+      "imagePath": "/public/courses/dv1706.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://dbwebb-webapp.github.io/"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/bth-webtec"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BUKWY&semester=20271&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "Algoritmer och datastrukturer",
+      "badges": [
+        "lp4",
+        "dv1702",
+        "kp-programmering"
+      ],
+      "imagePath": "/public/courses/dv1702.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://bth-algo.github.io/"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/bth-algo"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BE4HH&semester=20271&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "Projekt webbprogrammering frontend",
+      "badges": [
+        "lp4",
+        "dv1707",
+        "kp-frontend"
+      ],
+      "imagePath": "/public/courses/dv1707.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://dbwebb-projfront.github.io/"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/dbwebb-projfront"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BWY3R&semester=20271&lang=sv"
+        }
+      ]
+    }
+  ],
+  "ht27": [
+    {
+      "name": "Mjukvaruutvecklingsprojekt",
+      "badges": [
+        "lp1",
+        "pa1493",
+        "programmet"
+      ],
+      "imagePath": "/public/courses/pa1493.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://bth-webtec.github.io/"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/bth-webtec"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B6TQG&semester=20262&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "Programmering med JavaScript och Node",
+      "badges": [
+        "lp1",
+        "dv1711",
+        "kp-backend"
+      ],
+      "imagePath": "/public/courses/dv1711.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://bth-python.github.io/"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/bth-python"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BRRAN&semester=20272&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "Diskret matematik och algoritmer",
+      "badges": [
+        "lp2",
+        "ma1507",
+        "programmet"
+      ],
+      "imagePath": "/public/courses/ma1507.jpg",
+      "links": [
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BPPF9&semester=20272&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "Webbprogrammering backend",
+      "badges": [
+        "lp2",
+        "dv1708",
+        "kp-frontend"
+      ],
+      "imagePath": "/public/courses/dv1708.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://bth-mvc.github.io/"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/bth-mvc"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BRRAN&semester=20272&lang=sv"
+        }
+      ]
+    }
+  ],
+  "vt28": [
+    {
+      "name": "Driftsättning av webbtjänster på Linux server",
+      "badges": [
+        "lp3",
+        "dv1709",
+        "kp-backend"
+      ],
+      "imagePath": "/public/courses/dv1709.jpg",
+      "links": [
+        {
+          "icon": "BookOpenIcon",
+          "title": "Kurssida",
+          "href": "https://bth-databas.github.io/website/"
+        },
+        {
+          "icon": "CodeBracketIcon",
+          "title": "GH Org",
+          "href": "https://github.com/bth-databas"
+        },
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B6JFK&semester=20271&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "Självständigt arbete i Webbprogrammering",
+      "badges": [
+        "lp3",
+        "pa1438",
+        "programmet"
+      ],
+      "imagePath": "/public/courses/pa1438.jpg",
+      "links": [
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BJKHX&semester=20281&lang=sv"
+        }
+      ]
+    },
+    {
+      "name": "Projekt webbprogrammering fullstack",
+      "badges": [
+        "lp4",
+        "dv1710",
+        "programmet"
+      ],
+      "imagePath": "/public/courses/dv1710.jpg",
+      "links": [
+        {
+          "icon": "DocumentTextIcon",
+          "title": "Kursplan",
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B779N&semester=20281&lang=sv"
+        }
+      ]
+    }
+  ]
+}
