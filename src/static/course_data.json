@@ -7,7 +7,7 @@
         "dv1670",
         "kp-programmering"
       ],
-      "imagePath": "/public/courses/dv1670.jpg",
+      "imagePath": "/courses/dv1670.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -43,7 +43,7 @@
         "dv1704",
         "kp-frontend"
       ],
-      "imagePath": "/public/courses/dv1704.jpg",
+      "imagePath": "/courses/dv1704.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -79,7 +79,7 @@
         "dv1701",
         "kp-programmering"
       ],
-      "imagePath": "/public/courses/dv1701.jpg",
+      "imagePath": "/courses/dv1701.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -115,7 +115,7 @@
         "dv1705",
         "kp-frontend"
       ],
-      "imagePath": "/public/courses/dv1705.jpg",
+      "imagePath": "/courses/dv1705.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -153,7 +153,7 @@
         "dv1703",
         "kp-programmering"
       ],
-      "imagePath": "/public/courses/dv1703.jpg",
+      "imagePath": "/courses/dv1703.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -179,7 +179,7 @@
         "dv1706",
         "kp-frontend"
       ],
-      "imagePath": "/public/courses/dv1706.jpg",
+      "imagePath": "/courses/dv1706.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -205,7 +205,7 @@
         "dv1702",
         "kp-programmering"
       ],
-      "imagePath": "/public/courses/dv1702.jpg",
+      "imagePath": "/courses/dv1702.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -231,7 +231,7 @@
         "dv1707",
         "kp-frontend"
       ],
-      "imagePath": "/public/courses/dv1707.jpg",
+      "imagePath": "/courses/dv1707.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -259,7 +259,7 @@
         "pa1493",
         "programmet"
       ],
-      "imagePath": "/public/courses/pa1493.jpg",
+      "imagePath": "/courses/pa1493.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -285,7 +285,7 @@
         "dv1711",
         "kp-backend"
       ],
-      "imagePath": "/public/courses/dv1711.jpg",
+      "imagePath": "/courses/dv1711.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -311,7 +311,7 @@
         "ma1507",
         "programmet"
       ],
-      "imagePath": "/public/courses/ma1507.jpg",
+      "imagePath": "/courses/ma1507.jpg",
       "links": [
         {
           "icon": "DocumentTextIcon",
@@ -327,7 +327,7 @@
         "dv1708",
         "kp-frontend"
       ],
-      "imagePath": "/public/courses/dv1708.jpg",
+      "imagePath": "/courses/dv1708.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -355,7 +355,7 @@
         "dv1709",
         "kp-backend"
       ],
-      "imagePath": "/public/courses/dv1709.jpg",
+      "imagePath": "/courses/dv1709.jpg",
       "links": [
         {
           "icon": "BookOpenIcon",
@@ -381,7 +381,7 @@
         "pa1438",
         "programmet"
       ],
-      "imagePath": "/public/courses/pa1438.jpg",
+      "imagePath": "/courses/pa1438.jpg",
       "links": [
         {
           "icon": "DocumentTextIcon",
@@ -397,7 +397,7 @@
         "dv1710",
         "programmet"
       ],
-      "imagePath": "/public/courses/dv1710.jpg",
+      "imagePath": "/courses/dv1710.jpg",
       "links": [
         {
           "icon": "DocumentTextIcon",
