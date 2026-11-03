@@ -13,6 +13,10 @@ function Navbar() {
     {
       title: 'Programplan',
       href: 'https://bthplaner.blob.core.windows.net/utbildningsplaner/PAGWG_HT-26.pdf'
+    },
+    {
+      title: "Källkod",
+      href: 'https://github.com/Webbiga-Studiecirkeln/PAGWG'
     }
   ]
 
