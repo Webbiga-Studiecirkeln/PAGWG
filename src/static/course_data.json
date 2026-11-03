@@ -358,19 +358,9 @@
       "imagePath": "/courses/dv1709.jpg",
       "links": [
         {
-          "icon": "BookOpenIcon",
-          "title": "Kurssida",
-          "href": "https://bth-databas.github.io/website/"
-        },
-        {
-          "icon": "CodeBracketIcon",
-          "title": "GH Org",
-          "href": "https://github.com/bth-databas"
-        },
-        {
           "icon": "DocumentTextIcon",
           "title": "Kursplan",
-          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=B6JFK&semester=20271&lang=sv"
+          "href": "https://bth.azure-api.net/lindplan/courseplanbycode?code=BADWJ&semester=20281&lang=sv"
         }
       ]
     },
