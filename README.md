@@ -23,7 +23,6 @@ Om du har förbättringsförslag är det bara att öppna ett issue.
 - [ ] Metadata för trevligare länkning i Discord etc
 - [ ] Trevliga transitions/animationer för "hover states"
 - [ ] Footer
-- [ ] Lägg till licens (MIT)
 - [ ] Egna bilder till kurserna(?)
 - [ ] Terminsnavigering och/eller terminsväljare(?)
 
